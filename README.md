@@ -4,3 +4,4 @@ This is the UI microservice for an online store application. This microservice i
 
 New Build Please
 New Build Please
+Fixed an issue
